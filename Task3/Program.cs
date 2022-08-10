@@ -3,7 +3,6 @@ int num = int.Parse(Console.ReadLine());
 
 int even = 2;
 
-
 while (num >= even)
 { 
     Console.Write(even + " ");
